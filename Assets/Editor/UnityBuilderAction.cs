@@ -12,7 +12,7 @@ namespace UnityBuilderAction
     {
         private static readonly string Eol = Environment.NewLine;
         private static string APP_NAME = "Optimus Bubble Prime Shooter";
-        private static string COMPANY_NAME = "168740414052976969772";
+        private static string COMPANY_NAME = "1687410687184594007808";
         private static string BUILD_VERSION_NAME = "1.0.0";
         private static string PACKAGENAME = "com.optimusbubble.primeshooter";
         private static string PATH_KEYSTORE = "data.keystore";
